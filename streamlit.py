@@ -10,5 +10,5 @@ theme={"primaryColor":"#120ca0",
                           "backgroundColor":"#0d6364",
                           "secondaryBackgroundColor":"#2d0431",
                           "textColor":"#fbd1d1"}
-                  )
+                  #)
 st._config.set_option("primaryColor", "#120ca0")
